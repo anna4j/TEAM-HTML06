@@ -1,30 +1,18 @@
-# HTML, CSS & Javascript
+# OneClickPick
 
-This repository should only be used to submit materials realated to your project like codes, reports, project ideas etc under the Uplift Project.
-
-## Submission Procedure
-
-Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission.
+![uplift_image](https://www.girlscript.tech/programs/uplift/images/uplift_logo.png)
 
 
-# Steps
+# HTML CSS JavaScript 
+# Team name: team-html06
+# Domain: Marketing
 
-1. Fork this repository to your profile.
 
-2. Clone the repository.
+We are creating a landing page for a Fashion Store with a built in IBM Watson Chat-Bot. The landing page will include details about: 
 
-2. Change to your team branch by typing `git checkout <teamname>`
+1.	The types of clothes available – Men and Women section
+2.	Shop by Store- Contains different Locations of the store
+4.	Contact Us section
+5.	Customer friendly Chat-Bot for queries
+6.	Blog page about the latest fashion trends
 
-3. Make the changes and commit to the same branch and push it.
-
-4. Create a pull request from `<username>/<teamname>` to `The-Uplift-Project/<teamname>`
-
-## NOTE
-
-DO NOT COMMIT TO THE `master` branch. Only commit to your team branch.
-
-### Each branch will contain
-
--   A text file that contains proper documentation. The documentation should contain:
-    -   A description of your project.
-    -   The contents of your project directory.
